@@ -1,7 +1,7 @@
 # STAMPEDE-DETECTION
 ![Screenshot 2025-04-05 132327](https://github.com/user-attachments/assets/4fb2e7e9-f208-4596-a0ec-6aead1025749)
-![image](https://github.com/user-attachments/assets/7c0cfea7-9d5c-4dae-ae59-d6ace3dafaf7)
-![image](https://github.com/user-attachments/assets/26768cb7-940f-4030-bbdd-04616c31efcb)
+![Screenshot 2025-04-05 132550](https://github.com/user-attachments/assets/8b6c5b98-9425-4b06-99c7-da8947f330ef)
+
 “जनRAKSHAK” is an AI-powered crowd safety system that analyzes real-time movement patterns to detect dangerous overcrowding, abnormal behavior, and potential stampede risks before they escalate. By leveraging computer vision and deep learning, “जनRAKSHAK” provides a proactive solution to prevent stampedes, protect lives, and ensure safer public gatherings worldwide.
 Purpose: Analyzes crowd behavior to enhance public safety.
 Input: Real-time/CCTV feed or pre-recorded video.
